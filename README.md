@@ -1,7 +1,5 @@
 # SQL-Data-Cleaning-Project-for-Nashville-Housing-Data
 
-**SQL Data Cleaning Project for Nashville Housing Data**
-
 This SQL project focuses on cleaning and transforming data from the `NashvilleHousing` table, addressing issues such as date standardization, populating missing data, breaking down addresses into individual columns, and handling categorical data.
 
 **Analysis Steps:**
